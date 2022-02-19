@@ -1,13 +1,13 @@
-package com.test.spring.project.Testspringptoject;
+package com.test.sandbox.spring_sandbox;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestSpringPtojectApplication {
+public class SpringSandboxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestSpringPtojectApplication.class, args);
+		SpringApplication.run(SpringSandboxApplication.class, args);
 	}
 
 }
