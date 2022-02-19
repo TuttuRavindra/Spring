@@ -7,6 +7,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringSandboxApplication {
 
 	public static void main(String[] args) {
+
+		//Code Area-------------//
+		BinarySearch binarySearch = new BinarySearch();
+
+		String result = binarySearch.BinarySearchMethod("ENTER THE STRING");
+		
+		System.out.println(result);
+		//Code Area-------------//
+		
 		SpringApplication.run(SpringSandboxApplication.class, args);
 	}
 

@@ -6,7 +6,7 @@
 3. GIT
 
 ## Project Setup
-1. Create Project on Spring initializer
+1. Create Project on Spring initializer in Vs Code
 2. 
 
 
